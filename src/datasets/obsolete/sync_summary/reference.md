@@ -1,4 +1,4 @@
-# Sync Summary and Sync Flat Summary Reference
+# Sync Summary and Sync Flat Summary Referenc
 
 <!-- toc -->
 
